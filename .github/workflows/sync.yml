@@ -1,0 +1,2 @@
+- name: fork-sync-all-branches
+  uses: anatawa12/fork-sync-all-branches@v1.0.1
